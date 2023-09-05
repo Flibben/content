@@ -310,7 +310,7 @@ As opposed to:
 .foo {
   /* .foo styles */
   .bar & {
-    /* .bar .for styles */
+    /* .bar .foo styles */
   }
 }
 ```
